@@ -29,4 +29,4 @@ Projeto desenvolvido para fins de estudo e prática em Python.
 
 
 ```bash
-python src/NomesArquivos.py
+python Projeto1/NomesArquivos.py
